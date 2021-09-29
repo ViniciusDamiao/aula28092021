@@ -1,1 +1,1 @@
-Select* * from Tb_users;
+Select* from Tb_users;
